@@ -20,7 +20,7 @@ const GitHubIds = [
   "<your-github-username>"
 ];
 ```
-4. Commit and raise a PR.
+4. Commit and raise a PR..
 5. Congratulations!🎺 You've successfully created a PR.
 
 
